@@ -8,7 +8,7 @@ description: >
   inspect renderer-process variables, or when you need to reload the renderer.
 compatibility: >
   Requires Node.js 22+ (built-in WebSocket), curl.
-  On Linux/X11: also requires lsof and a running display (DISPLAY set).
+  On Linux/X11: also requires a running display (DISPLAY set).
   The Electron app must accept --remote-debugging-port (all Electron apps do).
 ---
 
